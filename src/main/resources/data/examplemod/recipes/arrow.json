@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    { "item": "examplemod:myblock"  }
+  ],
+  "result":
+  {
+    "item": "minecraft:arrow",
+    "count": 10
+  }
+}

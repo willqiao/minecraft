@@ -1,0 +1,4 @@
+#How long the glowing lasts for Coppered Apples (in ticks)
+#Range: > 100
+glow_duration = 600
+
